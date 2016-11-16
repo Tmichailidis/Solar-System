@@ -6,4 +6,4 @@ The supported actions are:
 - Zoom in/out using +/- keys
 - Play/Pause using spacebar key
  
- Created with C++/OpenGL
+Created with C++/OpenGL
